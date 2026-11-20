@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<update version="0.0.1">
+			<file name="forgotten-realms-adventures-in-faerun.index" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/forgotten-realms-adventures-in-faerun.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/forgotten-realms-adventures-in-faerun/source.xml" />
+		<!-- items -->
+		<file name="items-mounts-vehicles.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/forgotten-realms-adventures-in-faerun/items/items-mounts-vehicles.xml" />
+		<file name="items-poison.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/forgotten-realms-adventures-in-faerun/items/items-poison.xml" />
+		<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/forgotten-realms-adventures-in-faerun/items/items-wondrous.xml" />
+	</files>
+</index>
