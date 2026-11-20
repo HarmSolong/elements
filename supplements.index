@@ -4,7 +4,7 @@
 		<name>Supplements</name>
 		<description>Supplements from Wizards of the Coast to expand your core gaming elements.</description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
-		<update version="0.6.6">
+		<update version="0.6.7">
 			<file name="supplements.index" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements.index" />
 		</update>
 	</info>
@@ -61,6 +61,7 @@
 		<file name="forgotten-realms-heroes-of-faerun.index" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/forgotten-realms-heroes-of-faerun.index" />
 		<file name="astarions-book-of-hungers.index" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/astarions-book-of-hungers.index" />
 		<file name="ravenloft-the-horrors-within.index" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/ravenloft-the-horrors-within.index" />
+		<file name="eberron-forge-of-the-artificer.index" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/eberron-forge-of-the-artificer.index" />
 
 		<file name="adventurers-league.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/adventurers-league.index" />
 		<file name="dnd-beyond.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond.index" />
