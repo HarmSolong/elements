@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Arcana Unleashed Test 2</name>
+		<description>Temporary isolation test: archetypes.</description>
+		<author url="">Wizards of the Coast</author>
+		<update version="0.0.1">
+			<file name="arcana-unleashed-test-2.index" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed-test-2.index" />
+		</update>
+	</info>
+	<files>
+		<file name="cleric-arcana.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/cleric-arcana.xml" />
+		<file name="fighter-arcane-archer.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/fighter-arcane-archer.xml" />
+		<file name="monk-mystic-arts.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/monk-mystic-arts.xml" />
+		<file name="warlock-vestige.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/warlock-vestige.xml" />
+		<file name="wizard-conjurer.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/wizard-conjurer.xml" />
+		<file name="wizard-enchanter.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/wizard-enchanter.xml" />
+		<file name="wizard-necromancer.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/wizard-necromancer.xml" />
+		<file name="wizard-transmuter.xml" url="https://raw.githubusercontent.com/HarmSolong/elements/personal-library/supplements/arcana-unleashed/archetypes/wizard-transmuter.xml" />
+	</files>
+</index>
